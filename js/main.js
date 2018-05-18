@@ -27,5 +27,5 @@ const myWork = [
       'comment':""
     }
   }
-]
+];
 ReactDOM.render(<ExampleWork work = {myWork}/>, document.getElementById('example-work'));
